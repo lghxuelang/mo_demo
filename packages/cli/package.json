@@ -1,6 +1,6 @@
 {
   "name": "@xuelangbue/cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "xuelanggbue <963601654@qq.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xuelangbue/cli-shared-utils": "^0.0.0",
+    "@xuelangbue/cli-shared-utils": "^0.0.1",
     "lodash": "^4.17.21"
   }
 }

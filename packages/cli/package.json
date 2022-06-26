@@ -1,0 +1,30 @@
+{
+  "name": "@xuelangbue/cli",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xuelanggbue <963601654@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/cli.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lghxuelang/mo_demo.git"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@xuelangbue/cli-shared-utils": "^0.0.0",
+    "lodash": "^4.17.21"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "comand": {
+    "bootstrap": {
+      "hoist": true
+    }
+  },
+  "useNx": false,
+  "version": "0.0.0"
+}
